@@ -3,7 +3,7 @@
 This dataset contains historical closing price data for stocks listed on the National Stock Exchange (NSE) of India with a market capitalization exceeding 500 crore INR. It is ideal for financial analysis, trading strategies, and academic research.
 
 # Features
-
+<br>
 - Stock Ticker: Unique symbol representing each stock.
 <br>
 - Date: Specific trading date of the closing price.
