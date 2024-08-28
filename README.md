@@ -1,8 +1,9 @@
-# Dataset Overview
+# NSE Stock Analysis
+## Dataset Overview
 
 This dataset contains historical closing price data for stocks listed on the National Stock Exchange (NSE) of India with a market capitalization exceeding 500 crore INR. It is ideal for financial analysis, trading strategies, and academic research.
 
-# Features
+## Features
 <br>
 - Stock Ticker: Unique symbol representing each stock.
 <br>
@@ -10,7 +11,7 @@ This dataset contains historical closing price data for stocks listed on the Nat
 <br>
 - Closing Price: Price at which the stock closed on a given day.
 
-# Applications
+## Applications
 
 ### Trend Analysis
 <br>
@@ -44,7 +45,7 @@ This dataset contains historical closing price data for stocks listed on the Nat
 <br>
 - Outcome: Enhanced educational experience.
 
-# Usage
+## Usage
 
 ### Financial Modeling and Forecasting
 <br>
@@ -79,7 +80,7 @@ This dataset contains historical closing price data for stocks listed on the Nat
 <br>
 - Outcome: Advanced stock price predictions.
 
-# Considerations
+## Considerations
 <br>
 - Data Quality: Ensure data accuracy and completeness.
 <br>
