@@ -1,4 +1,4 @@
-# NSE Stock Analysis
+# NSE Stock Price Data Analysis
 ## Dataset Overview
 
 This dataset contains historical closing price data for stocks listed on the National Stock Exchange (NSE) of India with a market capitalization exceeding 500 crore INR. It is ideal for financial analysis, trading strategies, and academic research.
