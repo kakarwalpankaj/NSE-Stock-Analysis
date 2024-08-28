@@ -1,8 +1,8 @@
-#Dataset Overview
+## Dataset Overview
 
 This dataset contains historical closing price data for stocks listed on the National Stock Exchange (NSE) of India with a market capitalization exceeding 500 crore INR. It is ideal for financial analysis, trading strategies, and academic research.
 
-#Features
+# Features
 
 Stock Ticker: Unique symbol representing each stock.
 <br>
@@ -10,7 +10,7 @@ Date: Specific trading date of the closing price.
 <br>
 Closing Price: Price at which the stock closed on a given day.
 
-#Applications
+# Applications
 
 Trend Analysis
 <br>
@@ -44,7 +44,7 @@ Methods: Use in finance and data science coursework.
 <br>
 Outcome: Enhanced educational experience.
 
-#Usage
+# Usage
 
 Financial Modeling and Forecasting
 <br>
@@ -79,7 +79,7 @@ Methods: Neural networks, decision trees.
 <br>
 Outcome: Advanced stock price predictions.
 
-#Considerations
+# Considerations
 
 Data Quality: Ensure data accuracy and completeness.
 <br>
