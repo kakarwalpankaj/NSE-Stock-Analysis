@@ -1,88 +1,88 @@
-## Dataset Overview
+# Dataset Overview
 
 This dataset contains historical closing price data for stocks listed on the National Stock Exchange (NSE) of India with a market capitalization exceeding 500 crore INR. It is ideal for financial analysis, trading strategies, and academic research.
 
 # Features
 
-Stock Ticker: Unique symbol representing each stock.
+- Stock Ticker: Unique symbol representing each stock.
 <br>
-Date: Specific trading date of the closing price.
+- Date: Specific trading date of the closing price.
 <br>
-Closing Price: Price at which the stock closed on a given day.
+- Closing Price: Price at which the stock closed on a given day.
 
 # Applications
 
-Trend Analysis
+### Trend Analysis
 <br>
-Objective: Identify and analyze stock price trends.
+- Objective: Identify and analyze stock price trends.
 <br>
-Methods: Moving averages, volatility analysis.
+- Methods: Moving averages, volatility analysis.
 <br>
-Outcome: Insights into historical price trends.
+- Outcome: Insights into historical price trends.
 
-Algorithmic Trading
+### Algorithmic Trading
 
-Objective: Develop and backtest trading algorithms.
+- Objective: Develop and backtest trading algorithms.
 <br>
-Methods: Mean-reversion, momentum strategies.
+- Methods: Mean-reversion, momentum strategies.
 <br>
-Outcome: Refined trading strategies.
+- Outcome: Refined trading strategies.
 
-Market Research
+### Market Research
 
-Objective: Examine performance of large-cap stocks.
+- Objective: Examine performance of large-cap stocks.
 <br>
-Methods: Comparative analysis, event impact assessment.
+- Methods: Comparative analysis, event impact assessment.
 <br>
-Outcome: Understanding of market dynamics.
+- Outcome: Understanding of market dynamics.
 
-Educational Use
+### Educational Use
 
-Objective: Provide practical data for learning.
+- Objective: Provide practical data for learning.
 <br>
-Methods: Use in finance and data science coursework.
+- Methods: Use in finance and data science coursework.
 <br>
-Outcome: Enhanced educational experience.
+- Outcome: Enhanced educational experience.
 
 # Usage
 
-Financial Modeling and Forecasting
+### Financial Modeling and Forecasting
 <br>
-Objective: Predict future stock prices.
+- Objective: Predict future stock prices.
 <br>
-Methods: Time series analysis, machine learning.
+- Methods: Time series analysis, machine learning.
 <br>
-Outcome: Improved forecasting accuracy.
+- Outcome: Improved forecasting accuracy.
 
-Risk Management and Portfolio Optimization
+### Risk Management and Portfolio Optimization
 
-Objective: Assess risk and optimize portfolios.
+- Objective: Assess risk and optimize portfolios.
 <br>
-Methods: Value at Risk (VaR), optimization models.
+- Methods: Value at Risk (VaR), optimization models.
 <br>
-Outcome: Better risk management and portfolio performance.
+- Outcome: Better risk management and portfolio performance.
 
-Academic Research and Projects
+### Academic Research and Projects
 
-Objective: Support academic research.
+- Objective: Support academic research.
 <br>
-Methods: Data analysis for research papers and projects.
+- Methods: Data analysis for research papers and projects.
 <br>
-Outcome: Contributions to academic knowledge.
+- Outcome: Contributions to academic knowledge.
 <br>
 
-Machine Learning and AI-driven Stock Prediction Models
+### Machine Learning and AI-driven Stock Prediction Models
 
-Objective: Develop predictive models.
+- Objective: Develop predictive models.
 <br>
-Methods: Neural networks, decision trees.
+- Methods: Neural networks, decision trees.
 <br>
-Outcome: Advanced stock price predictions.
+- Outcome: Advanced stock price predictions.
 
 # Considerations
 
-Data Quality: Ensure data accuracy and completeness.
+- Data Quality: Ensure data accuracy and completeness.
 <br>
-Historical Context: Understand market conditions affecting the data.
+- Historical Context: Understand market conditions affecting the data.
 <br>
-Ethical Use: Use the data responsibly in trading and research.
+- Ethical Use: Use the data responsibly in trading and research.
