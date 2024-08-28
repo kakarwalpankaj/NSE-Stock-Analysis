@@ -21,7 +21,7 @@ This dataset contains historical closing price data for stocks listed on the Nat
 - Outcome: Insights into historical price trends.
 
 ### Algorithmic Trading
-
+<br>
 - Objective: Develop and backtest trading algorithms.
 <br>
 - Methods: Mean-reversion, momentum strategies.
@@ -29,7 +29,7 @@ This dataset contains historical closing price data for stocks listed on the Nat
 - Outcome: Refined trading strategies.
 
 ### Market Research
-
+<br>
 - Objective: Examine performance of large-cap stocks.
 <br>
 - Methods: Comparative analysis, event impact assessment.
@@ -37,7 +37,7 @@ This dataset contains historical closing price data for stocks listed on the Nat
 - Outcome: Understanding of market dynamics.
 
 ### Educational Use
-
+<br>
 - Objective: Provide practical data for learning.
 <br>
 - Methods: Use in finance and data science coursework.
@@ -55,7 +55,7 @@ This dataset contains historical closing price data for stocks listed on the Nat
 - Outcome: Improved forecasting accuracy.
 
 ### Risk Management and Portfolio Optimization
-
+<br>
 - Objective: Assess risk and optimize portfolios.
 <br>
 - Methods: Value at Risk (VaR), optimization models.
@@ -63,7 +63,7 @@ This dataset contains historical closing price data for stocks listed on the Nat
 - Outcome: Better risk management and portfolio performance.
 
 ### Academic Research and Projects
-
+<br>
 - Objective: Support academic research.
 <br>
 - Methods: Data analysis for research papers and projects.
@@ -72,7 +72,7 @@ This dataset contains historical closing price data for stocks listed on the Nat
 <br>
 
 ### Machine Learning and AI-driven Stock Prediction Models
-
+<br>
 - Objective: Develop predictive models.
 <br>
 - Methods: Neural networks, decision trees.
@@ -80,7 +80,7 @@ This dataset contains historical closing price data for stocks listed on the Nat
 - Outcome: Advanced stock price predictions.
 
 # Considerations
-
+<br>
 - Data Quality: Ensure data accuracy and completeness.
 <br>
 - Historical Context: Understand market conditions affecting the data.
